@@ -1,0 +1,11 @@
+
+Command 'argo' not found, did you mean:
+
+  command 'cargo' from snap rustup (1.24.3)
+  command 'cargo' from deb cargo (0.60.0ubuntu1-0ubuntu1~20.04.1)
+  command 'ario' from deb ario (1.6-1)
+  command 'ergo' from deb ergo (3.8-1build1)
+  command 'args' from deb ucommon-utils (7.0.0-16ubuntu2)
+
+See 'snap info <snapname>' for additional versions.
+
